@@ -1,0 +1,135 @@
+<!doctype html>
+
+<html>
+
+	<head>
+		<title>Você sabia?</title>
+		<meta charset="utf-8" />
+		<link rel="shortcut icon" href="imagens/favicon.png" type="image/x-icon">
+		<link rel="stylesheet" type="text/css" href="css/estilo.css" />
+		<script type="text/javascript" src="js/zoom.js"></script>
+
+		<style>
+			
+			
+			.sidenav {
+				height: 100%;
+				width: 0;
+				position: fixed;
+				z-index: 1;
+				top: 0;
+				left: 0;
+				background-color:#DCDCDC;
+				overflow-x: hidden;
+				transition: 0.5s;
+				padding-top: 60px;
+			}
+			
+			.sidenav a {
+				padding: 8px 8px 8px 32px;
+				text-decoration: none;
+				font-size: 25px;
+				color: #818181;
+				display: block;
+				transition: 0.3s;
+			}
+			
+			.sidenav a:hover {
+				color: #f1f1f1;
+			}
+			
+			.sidenav .closebtn {
+				position: absolute;
+				top: 0;
+				right: 25px;
+				font-size: 36px;
+				margin-left: 50px;
+			}
+			
+			@media screen and (max-height: 450px) {
+			  .sidenav {padding-top: 15px;}
+			  .sidenav a {font-size: 18px;}
+			}
+			</style>
+
+	</head>
+
+	<body onload="zoom()">
+
+		
+
+		
+
+		<div class="container">
+			<div class="white-box">
+			  
+			  <div class="featured">
+
+					<div id="mySidenav" class="sidenav">
+							<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+							<a href="faturanegociacao.html">Fatura/Negociação</a>
+							<a href="plano.html">Cadastro/Plano</a>
+							<a href="suportetecnico.html">Suporte técnico</a>
+							<a href="cancelamento.html">Cancelamento</a>
+						  </div>
+
+						  <span style="font-size:30px;cursor:pointer;color:#ff8000;" onclick="openNav()">&#9776; Index</span>
+
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+
+					<div id="front">
+
+
+
+							<img src="imagens/vocesabia.png" width="500px">
+			
+			
+			
+					</div>
+			
+					<div id="area-principal">
+			
+					<div id="menu1">
+			
+							<a href="faturanegociacao.html"><img src="imagens/Fatura Negociação.png" width="500px"></a>
+							<a href="plano.html"><img src="imagens/Cadastro Plano.png" width="500px"></a>
+							
+			
+			
+					</div>
+			
+					<div id="menu2">
+			
+							<a href="suportetecnico.html"><img src="imagens/Suporte Técnico.png" width="500px"></a>
+							<a href="cancelamento.html"><img src="imagens/Cancelamento.png" width="500px"></a>
+			
+			
+			
+					</div>
+			
+					<div id="bota">
+							
+						
+							<a href="protocolo.html"><img src="imagens/abrirprotocolo.png" width="400px"></a>
+			
+					</div>
+
+
+
+			  </div>
+			  
+			
+			</div>
+		  </div>
+
+	</body>
+
+</html>
