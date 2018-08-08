@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bo",
+				"button\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"r",
+				"round"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"text",
+				"text-shadow"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n\n<html>\n\n\t<head>\n\t\t<title>Você sabia?</title>\n\t\t<meta charset=\"utf-8\" />\n\t\t<link rel=\"shortcut icon\" href=\"imagens/favicon.png\" type=\"image/x-icon\">\n\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"css/estilo.css\" />\n\t\t<script type=\"text/javascript\" src=\"js/zoom.js\"></script>\n\n\t</head>\n\n\t<body onload=\"zoom()\">\n\t\t\n\t\t<div class=\"container\">\n\n\t\t\t<div class=\"white-box\">\n\t\t\t  \n\t\t\t  <div class=\"featured\">\n\n\t\t\t\t\t<div id=\"front\">\n\n\n\n\t\t\t\t\t\t\t<img src=\"imagens/vocesabia.png\" width=\"500px\">\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t<div id=\"area-principal\">\n\t\t\t\n\t\t\t\t\t<div id=\"menu1\">\n\t\t\t\n\t\t\t\t\t\t\t<a href=\"faturanegociacao.html\"><img src=\"imagens/Fatura Negociação.png\" width=\"500px\"></a>\n\t\t\t\t\t\t\t<a href=\"plano.html\"><img src=\"imagens/Cadastro Plano.png\" width=\"500px\"></a>\n\t\t\t\t\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t<div id=\"menu2\">\n\t\t\t\n\t\t\t\t\t\t\t<a href=\"suportetecnico.html\"><img src=\"imagens/Suporte Técnico.png\" width=\"500px\"></a>\n\t\t\t\t\t\t\t<a href=\"cancelamento.html\"><img src=\"imagens/Cancelamento.png\" width=\"500px\"></a>\n\t\t\t\n\t\t\t\n\t\t\t\n\t\t\t\t\t</div>\n\t\t\t\n\t\t\t\t\t<div id=\"bota\">\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t<a href=\"protocolo.html\"><img src=\"imagens/abrirprotocolo.png\" width=\"400px\"></a>\n\t\t\t\n\t\t\t\t\t</div>\n\n\n\n\t\t\t  </div>\n\t\t\t  \n\t\t\t\n\t\t\t</div>\n\t\t  </div>\n\n\t</body>\n\n</html>",
+			"file": "/C/Users/Morcego/Desktop/VOCESABIA/Você sabia/index.html",
+			"file_size": 1327,
+			"file_write_time": 131740612560000000,
+			"settings":
+			{
+				"buffer_size": 1247,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Morcego/Desktop/index",
+		"/C/Users/Morcego/Desktop/Nova pasta/index.html",
+		"/C/Users/Morcego/Desktop/Nova pasta/css.css",
+		"/C/Users/Morcego/Desktop/Nova pasta/css",
+		"/C/Users/Morcego/Desktop/VOCESABIA/Você sabia/css/estilo.css",
+		"/C/Users/Morcego/Desktop/Nova pasta/bootstrap-css.css",
+		"/C/Users/Morcego/Desktop/VOCESABIA/Você sabia/index com menu.html",
+		"/C/Users/Morcego/Desktop/VOCESABIA/Você sabia/configssidtplink.html",
+		"/C/Users/Morcego/Desktop/VOCESABIA/VOCESABIA-INICIEAQUI.lnk",
+		"/C/Users/Morcego/Desktop/index.html",
+		"/C/wamp64/www/Christian/Quarta/index.php",
+		"/C/wamp64/www/Christian/Quinta/index.php",
+		"/C/wamp64/www/Christian/Terceira/index.php",
+		"/C/wamp64/www/Christian/Primeira/index.php",
+		"/C/wamp64/www/Christian/Questao4/index.php",
+		"/C/wamp64/www/Christian/Questao5/index.php",
+		"/C/wamp64/www/Christian/Questao3/index.php",
+		"/C/wamp64/www/Christian/Questao2/index.php",
+		"/C/wamp64/www/Christian/Questao1/index.php",
+		"/C/wamp64/www/tabuada/classe/Tabuada.php",
+		"/C/wamp64/www/tabuada/classe/header.php",
+		"/C/wamp64/www/tabuada/classe/footer.php",
+		"/C/wamp64/www/tabuada/classe/html.php",
+		"/C/Users/Morcego/Documents/Tabuada(carlos_eduardo) (cópia).doc",
+		"/C/wamp64/www/Cursos/blog/routes/api.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"var"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Morcego/Desktop/VOCESABIA/Você sabia/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								594,
+								594
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "5416541655145456412.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
