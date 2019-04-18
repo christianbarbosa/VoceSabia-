@@ -11,11 +11,12 @@ body{
 .caixa{
 	width: 90%;
 	background: #a8a9ad;
-	margin:0 auto;
+	margin: 0 auto;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	border-radius: 10px;
 	box-shadow: 0 0px 50px #a8a9ad;
+	height: 430px;
 	}
 
 p{
@@ -32,7 +33,7 @@ h3{
 
 .textoinstru{
 	font-size: 20px;
-}
+	}
 
 .btnbot{
 	margin: 10px;	
@@ -42,7 +43,7 @@ h3{
 	font-size: 25px;
 	color: #666;
 	text-shadow: 0 1px 2px #666;
-}
+	}
 
 .face{
     width: 50px;
@@ -52,4 +53,34 @@ h3{
 	background-color: #bcbbb8;
 	box-shadow: 0 0 10px;
 	text-shadow: 0 1px 0 #666;
+	}
+
+/**Pagina Atendimento**/
+.card-img-top{
+    height: 200px;
+    box-shadow: 0 0 20px #666;
+	}
+.card-body{
+    height: 250px;
+    background: #d1d1d1;
+    box-shadow: 0 0 20px #666;
+    }
+.zoom{
+    overflow: hidden;
+    }
+.zoom img{
+    transition: all 1.5s ease;
+	}
+.zoom:hover img{
+    transform: scale(1.5);
 }
+.card-text{
+	font-size: 19px;
+}
+
+
+/**Chamado**/
+
+
+
+
