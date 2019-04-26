@@ -1,6 +1,7 @@
 
 body{
 	background: url(imagens/back.png);
+	
 	}
 
 .Tudo{
@@ -81,9 +82,53 @@ h3{
 	font-size: 19px;
 }
 
+/**QUEMSOMOS**/
+.quemsomos{
+	color: white;
+}
+.textoquem{
+	font-size: 23px;
+	color: white;
+
+}
+.textolistaquem{
+	color: white;
+
+}
+.introquemsomos{
+	color: white;
+	text-align: center;
+	text-shadow: 0 1px 10px black;
+	margin-bottom: 25px;
+	
+}
+.btnquemsomos{
+	margin-bottom: 15px;
+}
+.media{
+	color: white;
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+.imgtudo{
+	margin: 0 auto;
+}
 
 /**Chamado**/
 
+
+
+
+/**Roteador**/
+
+.meiorot{
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+.imgfotos{
+	margin: 15px auto;
+}
 
 
 
