@@ -1,7 +1,7 @@
 
 body{
 	background: url(imagens/back.png);
-	
+	background-size: 100%;
 	}
 
 .Tudo{
@@ -31,6 +31,17 @@ h3{
 	border-radius: 5px;
 	padding: 3px;
 	}
+
+/**Observações**/
+
+.dicas{
+	text-align: center;
+	text-shadow: 0 0 5px black;
+	margin-top: 100px;
+	color: white;
+}
+
+
 
 .textoinstru{
 	font-size: 20px;
@@ -129,6 +140,8 @@ h3{
 .imgfotos{
 	margin: 15px auto;
 }
+
+
 
 
 
