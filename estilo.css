@@ -66,9 +66,7 @@ h3{
 	box-shadow: 0 0 10px;
 	text-shadow: 0 1px 0 #666;
 	}
-.trup{
-	margin: 10px auto;
-}
+
 
 /**Pagina Atendimento**/
 .card-img-top{
@@ -104,6 +102,8 @@ h3{
 }
 .textolistaquem{
 	color: white;
+	font-size: 20px;
+
 
 }
 .introquemsomos{
@@ -122,12 +122,15 @@ h3{
 	margin-bottom: 15px;
 }
 .imgtudo{
-	margin: 0 auto;
+	margin-bottom: 0 auto;
+	margin-top: 0 auto;
 }
 
 /**Chamado**/
 
-
+.trup{
+	margin: 5px auto;
+}
 
 
 /**Roteador**/
